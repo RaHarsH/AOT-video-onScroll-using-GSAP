@@ -1,1 +1,1 @@
-practicing on scroll animations
+practicing on scroll animations using gsap. 
